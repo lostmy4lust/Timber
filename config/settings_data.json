@@ -1,5 +1,115 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
-  "current": "Default",
+  "current": {
+    "color_primary": "#747474",
+    "color_secondary": "#bbb",
+    "color_borders": "#e5e5e5",
+    "color_body_bg": "#fff",
+    "color_body_text": "#333333",
+    "color_footer_bg": "#f2f2f2",
+    "color_footer_text": "#636363",
+    "color_footer_social_link": "#bbbbbb",
+    "logo_use_image": false,
+    "favicon_enable": false,
+    "footer_social_enable": true,
+    "footer_newsletter_enable": true,
+    "cart_notes_enable": true,
+    "ajax_cart_method": "drawer",
+    "social_twitter_link": "",
+    "social_facebook_link": "",
+    "content_for_index": [],
+    "blocks": {
+      "9680287006772215557": {
+        "type": "shopify://apps/searchpie-seo-speed/blocks/sb-local-seo/29f6c508-9bb9-4e93-9f98-b637b62f3552",
+        "disabled": false,
+        "settings": {}
+      },
+      "16278478101612877664": {
+        "type": "shopify://apps/pagefly-page-builder/blocks/app-embed/83e179f7-59a0-4589-8c66-c0dddf959200",
+        "disabled": false,
+        "settings": {}
+      },
+      "6263565299450869220": {
+        "type": "shopify://apps/loop-returns-exchanges/blocks/return-coverage/e32ccd84-40d6-4b16-98bf-b6b9da010afd",
+        "disabled": false,
+        "settings": {
+          "element-to-watch-for-cart-updates": "",
+          "event-system": "dom-event-system",
+          "auto-refresh": false,
+          "auto-refresh-option": "every-page"
+        }
+      },
+      "1793219247286972479": {
+        "type": "shopify://apps/searchpie-seo-speed/blocks/sb-snippets/29f6c508-9bb9-4e93-9f98-b637b62f3552",
+        "disabled": false,
+        "settings": {}
+      },
+      "5888675206956468567": {
+        "type": "shopify://apps/loop-returns-exchanges/blocks/onstore/e32ccd84-40d6-4b16-98bf-b6b9da010afd",
+        "disabled": false,
+        "settings": {
+          "show-onstore-bar": true,
+          "api-key": "test-key",
+          "checkout-selector": "#checkout",
+          "replace-checkout-button": true,
+          "script-discounts": true,
+          "preserve-cart": true,
+          "available-credit-bar-label": "in available credit",
+          "available-credit-bar-mobile-label": "credit",
+          "bar-value-font-size": "15",
+          "bar-label-font-size": "10",
+          "bar-button-font-size": "10",
+          "bottom-bar-alignment": "full",
+          "bar-color": "rgb(0,0,0)",
+          "bar-text-color": "rgb(255,255,255)",
+          "bump-side-cart": false,
+          "side-cart-selector": ".sidecart"
+        }
+      },
+      "5017882195547572635": {
+        "type": "shopify://apps/sc-easy-redirects/blocks/app/be3f8dbd-5d43-46b4-ba43-2d65046054c2",
+        "disabled": false,
+        "settings": {}
+      },
+      "13768625480086291342": {
+        "type": "shopify://apps/forms/blocks/forms/8744a304-fcb1-4347-b211-bb6b4759a76a",
+        "disabled": false,
+        "settings": {}
+      },
+      "1173261918193615741": {
+        "type": "shopify://apps/geo-pro-geolocation/blocks/geopro/16fc5313-7aee-4e90-ac95-f50fc7c8b657",
+        "disabled": false,
+        "settings": {}
+      },
+      "15683396631634586217": {
+        "type": "shopify://apps/inbox/blocks/chat/841fc607-4181-4ad1-842d-e24d7f8bad6b",
+        "disabled": false,
+        "settings": {
+          "button_color": "#000000",
+          "secondary_color": "#FFFFFF",
+          "ternary_color": "#6A6A6A",
+          "button_icon": "chat_bubble",
+          "button_text": "chat_with_us",
+          "button_horizontal_position": "bottom_right",
+          "button_vertical_position": "lowest",
+          "greeting_message": ""
+        }
+      },
+      "14060646107696862457": {
+        "type": "shopify://apps/judge-me-reviews/blocks/judgeme_core/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+        "disabled": false,
+        "settings": {}
+      }
+    }
+  },
   "presets": {
     "Default": {
       "ajax_cart_method": "drawer",
